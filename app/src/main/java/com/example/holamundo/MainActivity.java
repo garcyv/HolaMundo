@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
           resultado = add("3,5");
           Log.d( "RESULTADO3", String.valueOf(resultado));
 
-        miTextView.setText("El resultado es: " + resultado);
+       // miTextView.setText("El resultado es: " + resultado);
 
     }
 
